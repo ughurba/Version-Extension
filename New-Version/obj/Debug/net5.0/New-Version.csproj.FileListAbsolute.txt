@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.exe
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.deps.json
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.dll
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\bin\Debug\net5.0\New-Version.pdb
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.dll
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\refint\New-Version.dll
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.pdb
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\New-Version.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\New-Version\New-Version\obj\Debug\net5.0\ref\New-Version.dll
